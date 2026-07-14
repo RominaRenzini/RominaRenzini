@@ -9,9 +9,9 @@ I'm a Backend Software Engineer with a strong focus on the .NET ecosystem, cloud
 
 ### 🎯 What I'm into right now
 Aside from my daily work building cloud management solutions, I like to keep learning and experimenting. Right now, I'm:
-* Study-mode on for the **Microsoft Azure Administrator (AZ-104)** certification.
-* Diving into **Python and LangChain** to learn how to integrate AI and LLMs into backend services.
-* Building a few minimalist open-source pet projects on the side to test out automated background processing and API design.
+* 🚀 **Exploring AI Agents:** Moving forward from Python and LangChain integration to building a freshly started ticketing engine pet project, where I'm implementing multi-agent workflows to automate development cycles (from Azure DevOps tasks to automated coding and Merge Requests).
+* 🛠️ **Building side projects:** Designing minimalist open-source pet projects to test out event-driven background processing and clean API design.
+* ☁️ **Cloud Infrastructure:** Continuously strengthening my skills in cloud architecture, backed by my recent **Microsoft Azure Administrator (AZ-104)** certification.
 
 ---
 Let's connect! 
